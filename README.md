@@ -56,7 +56,7 @@ This Power BI dashboard combines **retail sales analytics** with **financial per
 ---
 
 ## 🚀Demo / Preview
-Preview - 
+Preview - https://github.com/Chaitanya8546/Retail-sales-dashboard-PowerBI-project-/blob/main/Dashboard%20Preview.png
 
 ---
 
