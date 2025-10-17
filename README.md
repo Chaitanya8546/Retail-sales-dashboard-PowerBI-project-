@@ -53,6 +53,13 @@ Key insights include:
 ## 🧠 Conclusion
 This Power BI dashboard combines **retail sales analytics** with **financial performance tracking**, offering a comprehensive decision-support tool for managers and analysts.
 
+---
+
+## 🚀Demo / Preview
+Preview - 
+
+---
+
 ## 👨‍💻 Author
 **Chaitanya Hegde**  
 📅 **Year:** 2025  
